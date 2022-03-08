@@ -1,0 +1,19 @@
+body {
+    background-image: url(sakura.jpg);
+    font-family: "Times New Roman";
+    font-style: initial;
+}
+header {
+    width: 800px;
+    height: 950spx;
+    margin-left: 500px;
+    border: 1px solid black;
+    background-color: white;
+}
+h1 {
+    color: darkgoldenrod;
+}
+p{
+    color: darkred;
+    font-size: large;
+}
